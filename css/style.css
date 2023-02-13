@@ -2,13 +2,21 @@
   margin: 0;
 }
 
-
-section img{
+/* HEADER */
+div img{
   width: 180px;
   padding-top: 100px;
 }
+/* titolo grande */
+header h1{
+  background-position: left;
+}
 
-
+.first-title{
+  width: 80%;
+  font-size: x-large;
+  font-weight: 800;
+}
 .pattern-header{
   background-image: url('../img/pattern.png');
   background-size: auto;
@@ -16,3 +24,20 @@ section img{
   width: 100%;
   height: 160px;
 }
+.autore{
+  color: rgb(106, 105, 105);
+}
+#the-booleaner{
+  color: hsl(204, 61%, 56%);
+  font-weight: 800;
+}
+
+
+/* /HEADER */
+
+/* MAIN */
+
+
+
+
+/* /MAIN */
