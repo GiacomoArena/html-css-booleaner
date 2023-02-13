@@ -50,11 +50,17 @@ main img{
 .ul{
   padding-top: 20px;
 }
+ul{
+  padding-left: 17px;
+}
 .table-lorem{
   width: 70%;
   padding-top: 20px;
-  margin: 0;
-  padding: 0;
+  
+
+}
+table{
+  border-spacing:0px;
 
 }
 table thead{
