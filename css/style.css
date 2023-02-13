@@ -40,7 +40,16 @@ header h1{
 main img{
   padding-left: 5px;
 }
-
+.lorem{
+  padding-top: 15px;
+  font-weight: 600;
+}
+.evidenziato{
+  background-color: yellow;
+}
+.ul{
+  padding-top: 20px;
+}
 
 
 /* /MAIN */
